@@ -1,6 +1,3 @@
-
----
-
 # Fashion-MNIST
 
 **Problem**: This is a multi-class classification problem where classes 0 to 9 correspond to different types of fashion items: T-shirt/top, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots, respectively. The goal is to identify the optimal model for categorizing these items by comparing the performance of two different approaches.
