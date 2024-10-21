@@ -26,7 +26,7 @@ In this first approach, we utilized **Artificial Neural Networks (ANN)** and **C
 
 ### **2. Hybrid Approach: Compact Convolutional Transformer (CNN + Vision Transformer)**
 
-For the second approach, we implemented a **Compact Convolutional Transformer (CCT)**, which combines a CNN with a Vision Transformer to further improve the precision of classification. This hybrid model was built using the PyTorch framework. Below is the flowchart of the CCT model:
+For the second approach, we implemented a **Compact Convolutional Transformer (CCT)**, which combines a CNN with a Vision Transformer to further improve the precision of classification. Also one of the main takeaways from CCT model is that it works fantastic on small dataset wherease ViT works best in a much more larger dataset. This hybrid model was built using the PyTorch framework. Below is the flowchart of the CCT model:
 
 - **CCT Model Flowchart:**
 
